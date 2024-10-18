@@ -1,0 +1,12 @@
+{
+  "openai": {
+    "host": "api.openai.com",
+    "port": 443,
+    "use_tls": true
+  },
+  "anthropic": {
+    "host": "api.anthropic.com",
+    "port": 443,
+    "use_tls": true
+  }
+}
